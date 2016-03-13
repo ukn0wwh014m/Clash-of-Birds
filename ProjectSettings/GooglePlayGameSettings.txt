@@ -1,0 +1,10 @@
+lastUpgrade=00932
+proj.pluginVersion=0.9.32
+proj.AppId=775029498303
+and.BundleId=com.yang.clashofbirds
+proj.classDir=Assets
+proj.ConstantsClassName=COBids
+and.ResourceData=%3c%3fxml+version%3d%221.0%22+encoding%3d%22utf-8%22%3f%3e%0a%3c%21--%0aGoogle+Play+game+services+IDs.%0aSave+this+file+as+res%2fvalues%2fgames-ids.xml+in+your+project.%0a--%3e%0a%3cresources%3e%0a++%3cstring+name%3d%22app_id%22%3e775029498303%3c%2fstring%3e%0a++%3cstring+name%3d%22package_name%22%3ecom.yang.clashofbirds%3c%2fstring%3e%0a++%3cstring+name%3d%22achievement_test%22%3eCgkIv8PumscWEAIQAQ%3c%2fstring%3e%0a%3c%2fresources%3e%0a
+and.ClientId=775029498303-b16jfbmobovka6hmcnm7qop1gmip3h9c.apps.googleusercontent.com
+proj.requireGPlus=false
+android.SetupDone=true

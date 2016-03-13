@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{D9FBC821-047C-2484-D599-18CF079E11EF}") = "Clash of Birds", "Assembly-CSharp.csproj", "{D98C61D5-C2F5-550E-F9F0-4A4DD14C853C}"
+EndProject
+Project("{D9FBC821-047C-2484-D599-18CF079E11EF}") = "Clash of Birds", "Assembly-CSharp-Editor.csproj", "{C0ED3909-FF83-ED89-C1A5-C32E25839C3D}"
+EndProject
+Project("{D9FBC821-047C-2484-D599-18CF079E11EF}") = "Clash of Birds", "Assembly-UnityScript.unityproj", "{9B274646-8E63-A00F-7FF3-0A3C256BEAE1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D98C61D5-C2F5-550E-F9F0-4A4DD14C853C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D98C61D5-C2F5-550E-F9F0-4A4DD14C853C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D98C61D5-C2F5-550E-F9F0-4A4DD14C853C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D98C61D5-C2F5-550E-F9F0-4A4DD14C853C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0ED3909-FF83-ED89-C1A5-C32E25839C3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0ED3909-FF83-ED89-C1A5-C32E25839C3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0ED3909-FF83-ED89-C1A5-C32E25839C3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0ED3909-FF83-ED89-C1A5-C32E25839C3D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B274646-8E63-A00F-7FF3-0A3C256BEAE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B274646-8E63-A00F-7FF3-0A3C256BEAE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B274646-8E63-A00F-7FF3-0A3C256BEAE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B274646-8E63-A00F-7FF3-0A3C256BEAE1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

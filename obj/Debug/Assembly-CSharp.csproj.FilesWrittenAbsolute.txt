@@ -1,0 +1,17 @@
+/Users/yetanothermax/Desktop/Clash of Birds/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/yetanothermax/Desktop/Clash of Birds/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/yetanothermax/Desktop/Clash of Birds/obj/Debug/Assembly-CSharp.dll
+/Users/yetanothermax/Desktop/Clash of Birds/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/yetanothermax/Desktop/Clash of Birds/Temp/bin/Debug/UnityEngine.dll
+/Users/yetanothermax/Desktop/Clash of Birds/Temp/bin/Debug/UnityEditor.dll
+/Users/yetanothermax/Desktop/Clash of Birds/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/yetanothermax/Desktop/Clash of Birds/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/yetanothermax/Desktop/Clash of Birds/Temp/bin/Debug/Mono.Cecil.dll
+/Users/yetanothermax/Desktop/Clash of Birds/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/yetanothermax/Desktop/Clash of Birds/Temp/bin/Debug/Unity.DataContract.dll
+/Users/yetanothermax/Desktop/Clash of Birds/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/yetanothermax/Desktop/Clash of Birds/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/yetanothermax/Desktop/Clash of Birds/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/yetanothermax/Desktop/Clash of Birds/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/yetanothermax/Desktop/Clash of Birds/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/yetanothermax/Desktop/Clash of Birds/Temp/bin/Debug/Mono.Cecil.Mdb.dll
